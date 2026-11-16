@@ -1,0 +1,13 @@
+# Copy these values to local.properties (never commit that file).
+# Firebase also needs app/google-services.json for com.marcormz.jellyapp.
+
+# AppsFlyer
+APPSFLYER_DEV_KEY=
+
+# Quantum Metric
+QM_SUBSCRIPTION=
+QM_UID=
+QM_MAVEN_USERNAME=
+QM_MAVEN_PASSWORD=
+# Optional: enable Quantum Metric test configuration (true/false).
+QM_TEST_MODE=false

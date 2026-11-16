@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "firebase-analytics": {
+      "source": "firebase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/firebase-analytics/SKILL.md",
+      "computedHash": "7c9f45f7aa91903efbcaae1901dc8d574362a533e289f293e3c37e6d27641f51"
+    },
+    "interface-design": {
+      "source": "Dammyjay93/interface-design",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/interface-design/SKILL.md",
+      "computedHash": "1491bb966a2c289550e0d6eb25c19b0570ead479240f6b2ba5766d94599ea744"
+    }
+  }
+}
